@@ -29,10 +29,3 @@ Ich baue gerne eigene Tools, Plugins und Server-Automationen – von **WordPress
 `WordPress` (Themes, Plugins) · `REST API` · `Nextcloud`
 
 ---
-
-## 📊 Stats & Badges
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulsteins\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsteins\&layout=compact\&theme=tokyonight)
-
----
