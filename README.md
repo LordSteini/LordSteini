@@ -1,4 +1,4 @@
-# 💻 Paul Steins — Developer, Sysadmin & Creative Tech Nerd
+# 💻 Paul — Developer, Sysadmin & Creative Tech Nerd
 
 Hi! Ich bin **Paul**, ein technisch viel zu neugieriger Mensch, der Server, Netzwerke, Events, Licht, Audio, WordPress, Python, Docker und alles was blinkt liebt.
 Ich baue gerne eigene Tools, Plugins und Server-Automationen – von **WordPress-Plugins** über **Nextcloud-Integration** bis zu **Audio-/Event-Netzwerken** und **Gaming-Servern**.
