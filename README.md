@@ -28,4 +28,13 @@ Ich baue gerne eigene Tools, Plugins und Server-Automationen – von **WordPress
 **Web & CMS:**
 `WordPress` (Themes, Plugins) · `REST API` · `Nextcloud`
 
+
+## 🚀 Projekte & Bereiche, in denen ich baue
+
+Ich entwickle verschiedene **Verwaltungs- und Automationslösungen**, arbeite regelmäßig an **Web- und WordPress-Projekten** und baue Tools, die Abläufe vereinfachen und Daten sauber strukturieren.
+In meinem HomeLab entstehen außerdem **Self-Hosted Dienste**, automatisierte Server-Setups, Container-Stacks und Integrationen für Cloud- und Netzwerkumgebungen.
+
+Neben der Softwareseite beschäftige ich mich auch intensiv mit **Veranstaltungstechnik**: Ich plane und betreue Audio- und Lichtsetups, erstelle Netzwerkstrukturen für Events und integriere Systeme wie Digitalmixer, Dante-Audio, DMX-Lichtsteuerung und VLAN-Designs.
+Dazu kommen private Projekte rund um **Game-Server, Automation, Skripte und Hardware**, die ich ständig weiter ausbaue.
+
 ---
